@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="img">
+    <file>user.png</file>
+    <file>medal1.png</file>
+    <file>bg 1280x720.png</file>
+    <file>medal2.png</file>
+    <file>medal3.png</file>
+    <file>search.png</file>
+    <file>../../Barbershop/1.png</file>
+    <file>../../Barbershop/logout.png</file>
+    <file>../../Barbershop/2.png</file>
+    <file>../../Barbershop/background.png</file>
+    <file>../../Barbershop/checked.png</file>
+  </qresource>
+</RCC>
